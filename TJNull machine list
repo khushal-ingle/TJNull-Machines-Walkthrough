@@ -1,0 +1,88 @@
+1. PWK / OSCP V1 Machines  
+1. Kioptrix: Level 1 (#1)
+2. Kioptrix: Level 1.1 (#2)
+3. Kioptrix: Level 1.2 (#3)
+4. Kioptrix: Level 1.3 (#4)
+5. Kioptrix: 2014
+6. FristiLeaks 1.3
+7. Stapler 1
+8. VulnOS 2
+9. SickOS 1.2
+10. HackLAB: Vulnix
+11. /dev/random: scream
+12. pWnOS 2.0
+13. SkyTower 1
+14. Mr-Robot 1
+15. PwnLab
+16. Lin.Security
+17. Temple of Doom
+18. Pinkys Palace v2
+19. Zico2
+20. Wintermute
+21. Troll 1
+22. Troll 2
+23. Web Developer 1
+24. SolidState
+25. Hackme 1
+26. Escalate_Linux 1
+27. DC 6
+
+2. PWK / OSCP V2 Machines
+1. DC 9
+2. Digitalworld.local (Bravery)
+3. Digitalworld.local (Development)
+4. Digitalworld.local (Mercy v2)
+5. Digitalworld.local (JOY)
+6. Digitalworld.local (FALL)
+7. Prime 1
+8. Misdirection 1
+9. Sar 1
+10. Djinn 1
+11. EVM 1
+12. DerpNStink 1
+13. RickdiculouslyEasy 1
+14. Tommy Boy 1
+15. Breach 1
+16. Breach 2.1
+17. Breach 3.0.1
+18. NullByte
+19. Bob 1.0.1
+20. Toppo 1
+21. W34kn3ss 1
+22. GoldenEye 1
+23. Infosec Prep OSCP Box
+24. LemonSqueezy
+25. Brainpan 1
+26. Lord of the Root 1.0.1
+27. Tiki-1
+28. Healthcare 1
+29. Photographer 1
+30. Glasgow Smile 1.1
+31. DevGuru 1
+32. Alpha 1
+33. Hack Me Please
+
+
+## **Other VulnHub Machines**
+
+1. **IMF** – [https://www.vulnhub.com/entry/imf-1,162/](https://www.vulnhub.com/entry/imf-1,162/?utm_source=chatgpt.com)
+2. **Tommy Boy** – [https://www.vulnhub.com/entry/tommy-boy-1,157/](https://www.vulnhub.com/entry/tommy-boy-1,157/?utm_source=chatgpt.com)
+3. **Billy Madison** – [https://www.vulnhub.com/entry/billy-madison-11,161/](https://www.vulnhub.com/entry/billy-madison-11,161/?utm_source=chatgpt.com)
+4. **Troll 1** – [https://www.vulnhub.com/entry/troll-1,100/](https://www.vulnhub.com/entry/troll-1,100/?utm_source=chatgpt.com)
+5. **Troll 2** – [https://www.vulnhub.com/entry/troll-2,107/](https://www.vulnhub.com/entry/troll-2,107/?utm_source=chatgpt.com)
+6. **Wallaby's Nightmare** – [https://www.vulnhub.com/entry/wallabys-nightmare-v102,176/](https://www.vulnhub.com/entry/wallabys-nightmare-v102,176/?utm_source=chatgpt.com)
+7. **Moria** – [https://www.vulnhub.com/entry/moria-1,187/](https://www.vulnhub.com/entry/moria-1,187/?utm_source=chatgpt.com)
+8. **BSides Vancouver 2018** – [https://www.vulnhub.com/entry/bsides-vancouver-2018-workshop,231/](https://www.vulnhub.com/entry/bsides-vancouver-2018-workshop,231/?utm_source=chatgpt.com)
+9. **DEFCON Toronto Galahad** – [https://www.vulnhub.com/entry/defcon-toronto-galahad,194/](https://www.vulnhub.com/entry/defcon-toronto-galahad,194/?utm_source=chatgpt.com)
+10. **SpyderSec** – [https://www.vulnhub.com/entry/spydersec-challenge,128/](https://www.vulnhub.com/entry/spydersec-challenge,128/?utm_source=chatgpt.com)
+11. **Pinkys Palace v3** – [https://www.vulnhub.com/entry/pinkys-palace-v3,237/](https://www.vulnhub.com/entry/pinkys-palace-v3,237/?utm_source=chatgpt.com)
+12. **Pinkys Palace v4** – [https://www.vulnhub.com/entry/pinkys-palace-v4,265/](https://www.vulnhub.com/entry/pinkys-palace-v4,265/?utm_source=chatgpt.com)
+13. **Vulnerable Docker 1** – [https://www.vulnhub.com/entry/vulnerable-docker-1,208/](https://www.vulnhub.com/entry/vulnerable-docker-1,208/?utm_source=chatgpt.com)
+14. **Node 1** – [https://www.vulnhub.com/entry/node-1,252/](https://www.vulnhub.com/entry/node-1,252/?utm_source=chatgpt.com)
+15. **Troll 3** – [https://www.vulnhub.com/entry/troll-3,340/](https://www.vulnhub.com/entry/troll-3,340/?utm_source=chatgpt.com)
+16. **Readme 1** – [https://www.vulnhub.com/entry/readme-1,336/](https://www.vulnhub.com/entry/readme-1,336/?utm_source=chatgpt.com)
+17. **OZ** – [https://www.vulnhub.com/entry/oz-1,317/](https://www.vulnhub.com/entry/oz-1,317/?utm_source=chatgpt.com)
+18. **Metasploitable 3** – [https://github.com/rapid7/metasploitable3](https://github.com/rapid7/metasploitable3?utm_source=chatgpt.com)
+19. **Election 1** – [https://www.vulnhub.com/entry/election-1,503/](https://www.vulnhub.com/entry/election-1,503/?utm_source=chatgpt.com)
+20. **Pinkys Palace v1** – [https://www.vulnhub.com/entry/pinkys-palace-v1,225/](https://www.vulnhub.com/entry/pinkys-palace-v1,225/?utm_source=chatgpt.com)
+21. **Hacker Kid 1.0.1** – [https://www.vulnhub.com/entry/hacker-kid-101,719/](https://www.vulnhub.com/entry/hacker-kid-101,719/?utm_source=chatgpt.com)
